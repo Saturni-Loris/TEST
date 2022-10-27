@@ -1,0 +1,1 @@
+import{_ as e}from"./FormMontre.vue_vue_type_script_setup_true_lang.9b16d8f9.js";import{d as t,o,c as s,b as r}from"./index.5527cf60.js";import"./MontreProfil.vue_vue_type_script_setup_true_lang.36aa6433.js";const a={class:"pt-16 flex justify-center"},i=t({__name:"form",setup(c){return(n,_)=>(o(),s("div",a,[r(e)]))}});export{i as default};
